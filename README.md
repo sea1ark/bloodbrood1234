@@ -40,3 +40,4 @@ Konami код: ↑↑↓↓←→←→BA
 
 "# bloodbrood123" 
 "# bloodbrood123" 
+"# bloodbrood123" 
